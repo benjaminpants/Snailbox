@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnailBox", "SnailBox\SnailBox.csproj", "{3475CB72-E0ED-43D5-B2AE-11F6C78E097D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3475CB72-E0ED-43D5-B2AE-11F6C78E097D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3475CB72-E0ED-43D5-B2AE-11F6C78E097D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3475CB72-E0ED-43D5-B2AE-11F6C78E097D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3475CB72-E0ED-43D5-B2AE-11F6C78E097D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B39331B-57E7-44EC-A480-A6290F42CBD6}
+	EndGlobalSection
+EndGlobal
